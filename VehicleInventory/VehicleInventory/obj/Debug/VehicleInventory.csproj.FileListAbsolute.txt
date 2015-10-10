@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2013\Projects\VehicleInventory\VehicleInventory\bin\Debug\VehicleInventory.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\VehicleInventory\VehicleInventory\obj\Debug\VehicleInventory.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\VehicleInventory\VehicleInventory\bin\Debug\VehicleInventory.exe
+c:\users\owner\documents\visual studio 2013\Projects\VehicleInventory\VehicleInventory\bin\Debug\VehicleInventory.pdb
+c:\users\owner\documents\visual studio 2013\Projects\VehicleInventory\VehicleInventory\obj\Debug\VehicleInventory.exe
+c:\users\owner\documents\visual studio 2013\Projects\VehicleInventory\VehicleInventory\obj\Debug\VehicleInventory.pdb
